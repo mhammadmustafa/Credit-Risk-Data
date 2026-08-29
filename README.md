@@ -34,4 +34,4 @@ Credit risk modeling is crucial for financial institutions to assess the likelih
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/mhammadmustafa/credit-risk-data.git](https://github.com/mhammadmustafa/credit-risk-data.git)
+git clone https://github.com/mhammadmustafa/Credit-Risk-Data.git
